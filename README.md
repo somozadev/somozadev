@@ -45,3 +45,4 @@
 [youtube]: https://youtube.com/somozadev
 [instagram]: https://instagram.com/somozadev
 [linkedin]: https://www.linkedin.com/in/somozadev/
+[Itchio]: https://msomele.itch.io/
