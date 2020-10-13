@@ -4,7 +4,7 @@
 - 👁‍🗨 I’m currently working on a simple Unity3D game!
 - 🎓 I’m currently studying a double degree 
 - 👯 I’m looking to collaborate with other content creators
-- 🌟 2020 Goals: End a pair of proyects i´m working on
+- 🌟 2020 Goals: Do nice in my internship and finish my tfg!
 - 🦾 Fun fact: I love to play videogames and boxing! 
 
 ### Connect with me:
