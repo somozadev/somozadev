@@ -1,10 +1,10 @@
 ### Hi there, I'm Marcos - aka [somozadev]
 
 ## I'm a Student and Developer!
-- 👁‍🗨 I’m currently working on a simple Unity3D game!
-- 🎓 I’m currently studying a double degree 
+- 🎓 Graduated in Design and Development of videogames at Universidad Europea de Madrid! 
+- 🎓 I’m currently studying Informatics Engineering
 - 👯 I’m looking to collaborate with other content creators
-- 🌟 2021 Goals: Finish my tfg!
+- 🌟 2021 Goals: publish my tfg game!
 - 🦾 Fun fact: I love to play videogames and boxing! 
 
 ### Connect with me:
