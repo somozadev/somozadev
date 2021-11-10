@@ -48,5 +48,5 @@
 [Itchio]: https://msomele.itch.io/
 
 
-[![somozadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=somozadev)](https://github.com/anuraghazra/github-readme-stats)
+[![somozadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=somozadev&count_private=true&theme=dracula)]
 
