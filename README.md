@@ -46,3 +46,7 @@
 [instagram]: https://instagram.com/somozadev
 [linkedin]: https://www.linkedin.com/in/somozadev/
 [Itchio]: https://msomele.itch.io/
+
+
+[![somozadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=somozadev)](https://github.com/anuraghazra/github-readme-stats)
+
