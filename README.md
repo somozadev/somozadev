@@ -7,9 +7,7 @@
 - 🌟 2021 Goals: publish my tfg game!
 - 🦾 Fun fact: I love to play videogames and boxing! 
 
-### Connect with me:
-
-
+## 💌 Connect
 [<img align="left" alt="somozadev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="somozadev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="somozadev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -18,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+## ⚙ Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width = "26px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />
@@ -39,8 +37,6 @@
 
 ---
 
-
-[website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/somozadev
 [youtube]: https://youtube.com/somozadev
 [instagram]: https://instagram.com/somozadev
