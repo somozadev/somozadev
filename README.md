@@ -47,6 +47,10 @@
 [linkedin]: https://www.linkedin.com/in/somozadev/
 [Itchio]: https://msomele.itch.io/
 
+## 💻 My stats
+<div align=”center”>
+  <img height = "175" src="https://github-readme-stats.vercel.app/api?username=somozadev&theme=dracula&hide=prs,issues&include_all_commits=true" />
 
-[![somozadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=somozadev&count_private=true&theme=dracula)]
+  <img height = "175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somozadev&theme=dracula&layout=compact" />
+</div>
 
