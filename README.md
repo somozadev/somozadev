@@ -3,8 +3,9 @@
 ## I'm a Student and Developer!
 - 🎓 Graduated in Design and Development of videogames at Universidad Europea de Madrid! 
 - 🎓 I’m currently studying Informatics Engineering
+- 🎓 I’m olso studying an MBA in business administration
 - 👯 I’m looking to collaborate with other content creators
-- 🌟 2021 Goals: publish my tfg game!
+- 🌟 2023 Goals: finish my second career and MBA, publish my VR shooting game 
 - 🦾 Fun fact: I love to play videogames and boxing! 
 
 ## 💌 Connect
