@@ -1,11 +1,12 @@
 ### Hi there, I'm Marcos - aka [somozadev]
 
 ## I'm a Student and Developer!
-- 🎓 Graduated in Design and Development of videogames at Universidad Europea de Madrid! 
-- 🎓 I’m currently studying Informatics Engineering
-- 🎓 I’m olso studying an MBA in business administration
+- 🎓 Graduated in Design and Development of videogames at Universidad Europea de Madrid.
+- 🎓 Graduated in Informatics Engineering at Universidad Europea de Madrid.
+- 🎓 Graduated in a MBA in business administration.
+- 🎓 I’m olso studying an MBA in videogames programming at Teesside University!
 - 👯 I’m looking to collaborate with other content creators
-- 🌟 2023 Goals: finish my second career and MBA, publish my VR shooting game 
+- 🌟 2024 Goals: finish my second career and MBA, master Unreal Engine and keep working on my personal projects!
 - 🦾 Fun fact: I love to play videogames and boxing! 
 
 ## 💌 Connect
