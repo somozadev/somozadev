@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos - aka [somozadev]
 
-## I'm a Student and Developer!
+## I'm a Developer and Student!
 - 🎓 Graduated in Design and Development of videogames at Universidad Europea de Madrid.
 - 🎓 Graduated in Informatics Engineering at Universidad Europea de Madrid.
 - 🎓 Graduated in a MBA in business administration at Universidad Carlos III de Madrid.
@@ -50,10 +50,4 @@
 [linkedin]: https://www.linkedin.com/in/somozadev/
 [Itchio]: https://msomele.itch.io/
 
-## 💻 My stats
-<div align=”center”>
-  <img height = "175" src="https://github-readme-stats.vercel.app/api?username=somozadev&theme=dracula&hide=prs,issues&include_all_commits=true" />
-
-  <img height = "175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somozadev&theme=dracula&layout=compact" />
-</div>
 
