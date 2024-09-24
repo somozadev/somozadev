@@ -4,7 +4,7 @@
 - 🎓 Graduated in Design and Development of videogames at Universidad Europea de Madrid.
 - 🎓 Graduated in Informatics Engineering at Universidad Europea de Madrid.
 - 🎓 Graduated in a MBA in business administration at Universidad Carlos III de Madrid.
-- 🎓 I’m olso studying an MBA in videogames programming at Teesside University!
+- 🎓 I’m also studying an MBA in videogames programming at Teesside University!
 - 👯 I’m looking to collaborate with other content creators
 - 🌟 2024 Goals: finish my second career and MBA, master Unreal Engine and keep working on my personal projects!
 - 🦾 Fun fact: I love to play videogames and boxing! 
