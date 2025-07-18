@@ -21,14 +21,14 @@
 ## ⚙ Languages and Tools
 
 <img align="left" alt="Unity" width = "26px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />
-<img align="left" alt="Unreal" width = "26px" src="https://static-00.iconduck.com/assets.00/unreal-engine-icon-512x512-0mwtjk1x.png" />
+<img align="left" alt="Unreal" width = "26px" src="https://cdn2.unrealengine.com/ue-logotype-2023-vertical-white-1686x2048-bbfded26daa7.png" />
 <img align="left" alt="Godot" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1024px-Godot_icon.svg.png" />
 <img align="left" alt="C#" width = "26px" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png" />
 <img align="left" alt="C++" width = "26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 <img align="left" alt="Python" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png" />
 <img align="left" alt="Lua" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png?20150107024942" />
 <img align="left" alt="Java" width = "26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />
-<img align="left" alt="JavaScript" width = "26px" src="https://i.pngimg.me/thumb/f/720/m2H7d3A0d3H7N4A0.jpg" />
+<img align="left" alt="JavaScript" width = "26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/960px-JavaScript-logo.png?20120221235433" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -38,7 +38,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
 <img align="left" alt="React Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img align="left" alt="Angular" width="26px" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png" />
+<img align="left" alt="Angular" width="26px" src="https://angular.dev/assets/images/press-kit/angular_icon_gradient.gif" />
 <br />
 <br />
 
