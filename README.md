@@ -10,9 +10,7 @@
 - 🦾 Fun fact: I love to play videogames and boxing! 
 
 ## 💌 Connect
-[<img align="left" alt="somozadev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="somozadev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="somozadev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="somozadev | Itchio" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][Itchio]
 
 
