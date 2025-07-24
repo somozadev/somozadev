@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Marcos 👋</h1>
-<h3 align="center">Game Developer | C++ & C# | Unity & Unreal Engine</h3>
+<h3 align="center">Game Developer | C# & C++ | Unity & Unreal Engine</h3>
 
 ---
 
