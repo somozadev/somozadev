@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Marcos 👋</h1>
-<h3 align="center">Game Developer | C++ & C# | Unity & Unreal Engine | MSc Student</h3>
+<h3 align="center">Game Developer | C++ & C# | Unity & Unreal Engine</h3>
 
 ---
 
@@ -8,13 +8,13 @@
 - 🕹️ BSc in Game Design & Development – *Universidad Europea de Madrid*
 - 💻 BSc in Informatics Engineering – *Universidad Europea de Madrid*
 - 📊 MBA in Business Administration – *Universidad Carlos III de Madrid*
-- 🎮 Currently finishing a MSc in Videogame Programming – *Teesside University (UK)*
+- 🎮 MSc in Videogame Programming – *Teesside University (UK)*
 
 ---
 
 💼 **Professional Experience**
 
-- 🧠 **Game Programmer** at *Observer Interactive* (2025 – Present | UK)
+- 🧠 **Game Programmer** at *Observer Interactive* (01/2025 – Present | UK)
 - 🔧 **Principal Programmer** at *Yellow Jacket Videogames Studio* (2024 – 2025 | Madrid)
 - 🎮 **Game Programmer** at *5th Element Gaming* (2020 – 2021 | Madrid)
 
@@ -27,7 +27,6 @@ Focused on gameplay programming, systems architecture, and real-time performance
 Always looking to collaborate, learn, and push the limits of interactive media.
 
 🌟 **2025 Goals**
-- ✅ Complete my MSc in September
 - 🎯 Keep learning new things and improve as a gamedev
 - 🛠️ Release personal indie game project
 
