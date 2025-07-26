@@ -3,20 +3,20 @@
 
 ---
 
+💼 **Professional Experience**
+
+- 🧠 **Game Programmer** at *Observer Interactive* (01/2025 – Present | UK)
+- 🔧 **Principal Programmer** at *Yellow Jacket Videogames Studio* (2024 – 2025 | Madrid)
+- 🎮 **Game Programmer** at *5th Element Gaming* (2020 – 2021 | Madrid)
+
+---
+
 🎓 **Academic Background**
 
 - 🕹️ BSc in Game Design & Development – *Universidad Europea de Madrid*
 - 💻 BSc in Informatics Engineering – *Universidad Europea de Madrid*
 - 📊 MBA in Business Administration – *Universidad Carlos III de Madrid*
 - 🎮 MSc in Videogame Programming – *Teesside University (UK)*
-
----
-
-💼 **Professional Experience**
-
-- 🧠 **Game Programmer** at *Observer Interactive* (01/2025 – Present | UK)
-- 🔧 **Principal Programmer** at *Yellow Jacket Videogames Studio* (2024 – 2025 | Madrid)
-- 🎮 **Game Programmer** at *5th Element Gaming* (2020 – 2021 | Madrid)
 
 ---
 
