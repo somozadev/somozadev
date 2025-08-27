@@ -6,7 +6,7 @@
 💼 **Professional Experience**
 
 - 🐧 **Game Programmer** at *Dink* (06/2025 – Present | UK)
-- 🧠 **Game Programmer** at *Observer Interactive* (01/2025 – Present | UK)
+- 🧠 **Game Programmer** at *Observer Interactive* (01/2025 – 08/2025 | UK)
 - 🔧 **Principal Programmer** at *Yellow Jacket Videogames Studio* (2024 – 2025 | Madrid)
 - 🎮 **Game Programmer** at *5th Element Gaming* (2020 – 2021 | Madrid)
 
