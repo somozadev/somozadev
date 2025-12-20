@@ -5,10 +5,10 @@
 
 💼 **Professional Experience**
 
-- 🐧 **Game Programmer** at *Dink* (06/2025 – Present | UK)
+- 🐧 **Game Programmer** at *Dink* (06/2025 – 12/2025 | UK)
 - 🧠 **Game Programmer** at *Observer Interactive* (01/2025 – 08/2025 | UK)
-- 🔧 **Principal Programmer** at *Yellow Jacket Videogames Studio* (2024 – 2025 | Madrid)
-- 🎮 **Game Programmer** at *5th Element Gaming* (2020 – 2021 | Madrid)
+- 🔧 **Principal Programmer** at *Yellow Jacket Videogames Studio* (2024 – 2025 | Spain)
+- 🎮 **Game Programmer** at *5th Element Gaming* (2020 – 2021 | Spain)
 
 ---
 
@@ -29,7 +29,7 @@ Always looking to collaborate, learn, and push the limits of interactive media.
 
 🌟 **2025 Goals**
 - 🎯 Keep learning new things and improve as a gamedev
-- 🛠️ Release personal indie game project
+
 
 ---
 
