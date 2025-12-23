@@ -14,10 +14,10 @@
 
 🎓 **Academic Background**
 
-- 🕹️ BSc in Game Design & Development – *Universidad Europea de Madrid*
-- 💻 BSc in Informatics Engineering – *Universidad Europea de Madrid*
-- 📊 MBA in Business Administration – *Universidad Carlos III de Madrid*
 - 🎮 MSc in Videogame Programming – *Teesside University (UK)*
+- 📊 MBA in Business Administration – *Universidad Carlos III de Madrid*
+- 💻 BSc in Informatics Engineering – *Universidad Europea de Madrid*
+- 🕹️ BSc in Game Design & Development – *Universidad Europea de Madrid*
 
 ---
 
