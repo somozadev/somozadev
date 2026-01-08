@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Marcos 👋</h1>
-<h3 align="center">Game Developer | C# & C++ | Unity & Unreal Engine</h3>
+<h3 align="center"> Software Engineer | C# & C++ | Unity & Unreal Engine</h3>
 
 ---
 
@@ -26,9 +26,6 @@
 I'm passionate about designing and developing immersive gameplay experiences.  
 Focused on gameplay programming, systems architecture, and real-time performance.  
 Always looking to collaborate, learn, and push the limits of interactive media.
-
-🌟 **2025 Goals**
-- 🎯 Keep learning new things and improve as a gamedev
 
 
 ---
